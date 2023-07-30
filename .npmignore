@@ -1,0 +1,14 @@
+.git
+.gitignore
+.prettierrc
+.cjs.swcrc
+node_modules
+tsconfig.json
+pnpm-lock.yaml
+tests
+src
+test
+CHANGELOG.md
+.eslintrc.js
+tsconfig.cjs.json
+tsconfig.esm.json
